@@ -5,6 +5,7 @@ The company strives to create a new global paradigm in blockchain based everyday
 
 # Solution
 HUPAYX end-to-end mobile payment platform is comprised of Shuffle Wallet and Vault POS:
+
 ## On the customer side we have - 'SHUFFLE' 
 It's a Multi-Digital Currency Wallet, where users can easily send, buy, store and most importantly pay in 'SHUFFLE' points (prepaid e-money). Crypto users can import their digital assets, store them or do near-instantaneous P2P transactions between SHUFFLE wallet users for free. Real life crypto utilization by converting crypto into points inside of the wallet and making purchases at 'VAULT' point-of-sale system supported merchants.
 ## On the merchant side we have - 'VAULT' 
