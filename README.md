@@ -21,6 +21,7 @@ HUPAYX utilizes most important elements in a blockchain-based payment platform, 
 HUPAYX blockchain MainNet was built on Comos Chain, which utilizes dPOS (delegated proof-of-stake) through Tendermin consensus algorithm and solves problems associated with Scalability and Interoperability of blockchain related solutions.
 
 # Token Economy
+![Image description](https://www.hupayx.com/images/process_eng.gif)
 - Shuffle Point = Prepaid E-Money, backed by local currency
 - HX Token = HUPAYX Internal Stablecoin
 - HPX = Publicly Listed Utility Token, Platform and Reward master coin
