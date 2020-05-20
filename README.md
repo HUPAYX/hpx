@@ -2,6 +2,7 @@
 HUPAYX is:
 A Hybrid Blockchain (private & public blockchain)-based mobile payment solution provider coupled with TechFin business model, which is perated by The Human Plus - a System Integrator and Development company based in Seoul, South Korea. 
 The company strives to create a new global paradigm in blockchain based everyday economy and enables never before real-life application of blockchain powered payments to both consumers and merchants and enables them to pay and accept payments in their desired payment methods.
+![Image description](https://www.hupayx.com/images/img_about.png)
 
 # Solution
 HUPAYX end-to-end mobile payment platform is comprised of Shuffle Wallet and Vault POS:
